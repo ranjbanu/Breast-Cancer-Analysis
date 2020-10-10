@@ -15,3 +15,5 @@ Classification using Logistic Regression + RFE with hyper parameter as "accuracy
 Ensembling using VotingClassifier 
 ## Evaluation metrics for classification
 Confusion Matrix, Accuracy, Precision, Recall & ROC
+
+https://medium.com/@ranjani.rajamani/breast-cancer-detection-using-logistic-regression-7bef0110aff5
